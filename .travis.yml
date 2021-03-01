@@ -39,4 +39,4 @@ deploy: # 배포
 notifications:
   email:
     recipients:
-      - dev.jeffchoi@gmail.com
+      - qkrwnstjr0317@gmail.com
